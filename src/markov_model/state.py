@@ -1,2 +1,0 @@
-# Nó atual
-# transition (list)

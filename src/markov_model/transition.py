@@ -1,2 +1,0 @@
-# Nó destino
-# Peso
